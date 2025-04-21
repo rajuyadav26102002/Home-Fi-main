@@ -117,9 +117,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -127,8 +125,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Adafruit for their reliable IoT platform
 - ESP32 community for their extensive documentation
 
-## ☕ Support
 
-<a href="https://www.buymeacoffee.com/jobinbiju234" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee">
-</a>
